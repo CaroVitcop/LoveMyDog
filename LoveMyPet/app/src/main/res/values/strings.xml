@@ -1,0 +1,51 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Love My Pet</string>
+    <string-array name="raza">
+        <item>American Staffordshire Terrier</item>
+        <item>American Water Spaniel</item>
+        <item>Antiguo Pastor Inglés</item>
+        <item>Bichón Maltés</item>
+        <item>Bobtail</item>
+        <item>Border Collie</item>
+        <item>Boston Terrier</item>
+        <item>Boxer</item>
+        <item>Bull Terrier</item>
+        <item>Bulldog Americano</item>
+        <item>Bulldog Francés</item>
+        <item>Bulldog Inglés</item>
+        <item>Boyero de berna</item>
+        <item>Caniche</item>
+        <item>Carlino</item>
+        <item>Chihuahua</item>
+        <item>Cirneco del Etna</item>
+        <item>Chow Chow</item>
+        <item>Dálmata</item>
+        <item>Dobermann</item>
+        <item>Dogo Alemán</item>
+        <item>Dogo Argentino</item>
+        <item>Dogo de Burdeos</item>
+        <item>Finlandés</item>
+        <item>Fox Terrier de pelo liso</item>
+        <item>Fox Terrier</item>
+        <item>Foxhound Americano</item>
+        <item>Foxhound Inglés</item>
+        <item>Pastor Alemán</item>
+        <item>Pastor Australiano</item>
+        <item>Pekinés</item>
+        <item>Pitbull</item>
+        <item>Rottweiler</item>
+        <item>San Bernardo</item>
+        <item>Scottish Terrier</item>
+        <item>Terranova</item>
+        <item>Terrier Australiano</item>
+        <item>Terrier Escocés</item>
+        <item>Terrier Irlandés</item>
+        <item>Yorkshire Terrier</item>
+    </string-array>
+    <string name="title_activity_actividad_informacion">ActividadInformacion</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

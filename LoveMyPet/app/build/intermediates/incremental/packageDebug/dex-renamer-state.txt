@@ -1,0 +1,7 @@
+#Fri Jun 02 10:49:51 ART 2017
+base.0=F\:\\LoveMyPet (1)\\LoveMyPet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d7cfd59a15789f6e1bde7b79d06206478072b1c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\LoveMyPet (1)\\LoveMyPet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ce29c14031a2e5f0487a6a2c0cdb6ed399aedc91\\classes.dex
+base.1=F\:\\LoveMyPet (1)\\LoveMyPet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ce29c14031a2e5f0487a6a2c0cdb6ed399aedc91
+file.0=F\:\\LoveMyPet (1)\\LoveMyPet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d7cfd59a15789f6e1bde7b79d06206478072b1c\\classes.dex
