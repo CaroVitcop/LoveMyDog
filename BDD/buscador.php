@@ -5,22 +5,20 @@ $sql = "SELECT * FROM usuarios";
 $result = mysql_query($sql,$connect) or die(mysql_error());
 
 
-if ($row = mysql_fetch_array($result)) {
 
-	echo "Resultados";
+	echo "Resultados 1";
 
+	$json = "";
+	 while($r = mysql_fetch_assoc($result)) {
+	 	
+	 	$usuario = $r["Usuario"];
+	 	$direccion = $r["Direccion"];
+	     //$rows['Usuario'][] = $r;
+	     $json = $json . "{'usuario:'" . $usuario .  "'}";
 
-	do {
-			?>
-			<br>
-			<br>
-			(Nombre: <?php echo $row['Usuario']; ?> - <?php echo $row['DireccionAlternativa']; ?> - <?php echo $row['Direccion']; ?>
+	   }
 
-			<?php
-	}
-	while ($row = mysql_fetch_array($result));
-}
-else {
-	echo "No se encontraron resultados";
-}
+	   echo $json;
+
+	
 ?>
