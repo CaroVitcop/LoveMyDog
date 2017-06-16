@@ -14,8 +14,8 @@ public class ActividadLoguearse extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.actividad_loguearse);
     }
-    public void Ir2(View Requerido)
-    {
+
+      public void Ir2 (View Requerido) {
         EditText Requerid;
         Requerid = (EditText) findViewById(R.id.NombreL);
         EditText Requerid1;
@@ -23,32 +23,29 @@ public class ActividadLoguearse extends AppCompatActivity {
         Toast miMensaje;
         String mensajeAMostrar;
 
-        if (Requerid.length() != 0 && Requerid1.length() != 0 )
-        {
+        if (Requerid.length() != 0 && Requerid1.length() != 0) {
             Intent Registrarse;
-            Registrarse= new Intent(this, ActividadInformacion.class);
+            Registrarse = new Intent(this, ActividadInformacion.class);
             startActivity(Registrarse);
-        }
-        else {
-        }
+        } else {
 
-        if (Requerid.length()==0)
-        {
-            mensajeAMostrar = "Debes ingresar tu nombre";
-            miMensaje = Toast.makeText(this, mensajeAMostrar, Toast.LENGTH_LONG);
-            miMensaje.show();
 
-        }
-        else {
-
-            if (Requerid1.length() == 0) {
-
-                mensajeAMostrar = "Debes ingresar tu contraseña";
+            if (Requerid.length() == 0) {
+                mensajeAMostrar = "Debes ingresar tu nombre";
                 miMensaje = Toast.makeText(this, mensajeAMostrar, Toast.LENGTH_LONG);
                 miMensaje.show();
-            }
+            } else {
+
+                if (Requerid1.length() == 0) {
+
+                    mensajeAMostrar = "Debes ingresar tu contraseña";
+                    miMensaje = Toast.makeText(this, mensajeAMostrar, Toast.LENGTH_LONG);
+                    miMensaje.show();
+                }
 
             }
         }
-
     }
+}
+
+

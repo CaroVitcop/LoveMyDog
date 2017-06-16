@@ -6,5 +6,13 @@
     {
         "merged": "F:\\LoveMyPet (1)\\LoveMyPet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
         "source": "F:\\LoveMyPet (1)\\LoveMyPet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "Z:\\LoveMyDog-master\\LoveMyPet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "Z:\\LoveMyDog-master\\LoveMyPet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "Z:\\LoveMyDog-master\\LoveMyPet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "Z:\\LoveMyDog-master\\LoveMyPet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

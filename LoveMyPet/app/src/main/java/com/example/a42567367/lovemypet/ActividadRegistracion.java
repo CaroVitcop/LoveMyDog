@@ -47,7 +47,7 @@ public class ActividadRegistracion extends AppCompatActivity {
 
         if (Requerid.length()==0)
           {
-              mensajeAMostrar = "Debes ingresar tu nombre";
+              mensajeAMostrar = "Debes ingresar tu nombre de usuario";
               miMensaje = Toast.makeText(this, mensajeAMostrar, Toast.LENGTH_LONG);
               miMensaje.show();
 

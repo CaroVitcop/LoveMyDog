@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textCapWords"
-            android:hint="Nombre y Apellido" />
+            android:hint="Usuario" />
         <EditText android:id="@+id/ContraseñaR"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
