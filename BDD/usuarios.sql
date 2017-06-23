@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 16-06-2017 a las 13:18:57
+-- Tiempo de generación: 23-06-2017 a las 14:00:16
 -- Versión del servidor: 5.7.9
 -- Versión de PHP: 5.6.16
 
@@ -29,7 +29,7 @@ SET time_zone = "+00:00";
 DROP TABLE IF EXISTS `usuarios`;
 CREATE TABLE IF NOT EXISTS `usuarios` (
   `Usuario` text NOT NULL,
-  `Contraseña` text NOT NULL,
+  `Password` text NOT NULL,
   `Direccion` text NOT NULL,
   `DireccionAlternativa` text NOT NULL,
   `NombrePerro` text NOT NULL,
@@ -47,7 +47,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 -- Volcado de datos para la tabla `usuarios`
 --
 
-INSERT INTO `usuarios` (`Usuario`, `Contraseña`, `Direccion`, `DireccionAlternativa`, `NombrePerro`, `PesoPerro`, `RazaPerro`, `NombreFamiliar`, `Celular`, `NombreFamiliar2`, `Celular2`, `NombreFamiliar3`, `Celular3`) VALUES
+INSERT INTO `usuarios` (`Usuario`, `Password`, `Direccion`, `DireccionAlternativa`, `NombrePerro`, `PesoPerro`, `RazaPerro`, `NombreFamiliar`, `Celular`, `NombreFamiliar2`, `Celular2`, `NombreFamiliar3`, `Celular3`) VALUES
 ('Carola', 'Carolaa123', 'Yatay240', 'yata20', 'lucho', 23, 'yorksire', 'lucia', 1543237890, 'alberto', 15678904, 'lucio', 1543278907);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
