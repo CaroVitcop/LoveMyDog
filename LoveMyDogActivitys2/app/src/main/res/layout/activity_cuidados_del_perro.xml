@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a42567367.lovemydogactivitys2.CuidadosDelPerro">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp">
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="400dp"
+        android:text="¡A pasear se ha dicho!. Disfruta de los paseos con tu perro. Él los necesita para hacer ejercicio y socializar, así que unos 3 paseos al día estarán bien y mejor todavía si las alternas con largas caminatas por el campo.
+                 El baño. No hace falta bañar al perro cada mes, si le cepillamos diariamente se mantendrá limpio y solo será necesario bañarlo dos veces al año.
+                     Alimentación. Si es cachorro le tendrás que racionar la comida durante tres veces al día, de adulto bastará con dos o una vez al día."
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="0dp" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

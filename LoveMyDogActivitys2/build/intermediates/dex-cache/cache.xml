@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\9482a2898c74a654165c3cb29d79afa826904be9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_6958f1d05f53e711d94821fca744ffc3a87d81a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\2c3281068fddd475f45a10f889cdf727ce915aed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_acb50a5d09ba3f82176f7b29750aac0efe88d13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\1929a04093c90dd487a4d6f3b831078d9c85a049\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_50b0095e7bc16e4290db59a8946a8b8b99cf5dfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\52dfda9b3ba8e5306532f031dbc205a4bc1e9cf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_7b0b198ed69d90e5c355d98b62d27ac49d396ff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\320770101d25cf09e62f2ee923992912399cee64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_cf6b826812cad61d3cf7d4d89ffcd2209493e9b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\okio-1.13.0_2545173adae1104969f29a441fccd84b3be3da3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\66112ffc7c8b57a81e141f6c3815cac9c507ae2e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_23057910f9e00ffcb47a57312f68e363824a6d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\6328278e33254b599de052a5c715b18c1798a2b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_18cd91a9a74bfefd1bddc6a9f38ff91bb0f5a63c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_f7ed2dbf8be7ec36a3a5f122699055e69ac2c533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\2de6a7347cebbc771965ba3e6ec5b3476ca7188f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_f44aa2c72aa0dfe9e291a52ef33edfdbb8f39a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\4780141920f73a7b181b464e680382cecaa85064\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_b3b250b3ecba83123390d4293108a1bc4e534334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\gson-2.4_34a7df3e48cc2d6474d226c9b0e4f2ed2c3fd3d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567367\.android\build-cache\ea925dae9dcf66ba17cb3fa166dcf614d5bc9576\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="Z:\Android\LoveMyDogActivitys2\app\build\intermediates\pre-dexed\debug\classes_5ae31be83ae82a2d7f539a62eb49c5d6322fe77d.jar" />
+    </item>
+
+</items>
